@@ -9,12 +9,9 @@
 <h4>And webcam opens and classfies the face of the person</h4> 
 
 <h3>To create a complete project on Face Recognition, we must work on 3 very distinct phases:</h3>
-<h4>Face Detection and Data Gathering</h4>
-![image](https://user-images.githubusercontent.com/49801313/118782796-18822480-b8ac-11eb-8291-44d72d0983f0.png)
+<h4>1)Face Detection and Data Gathering</h4>
 
-<h4>Train the Recognizer</h4>
-![image](https://user-images.githubusercontent.com/49801313/118782911-32236c00-b8ac-11eb-9ce2-2b7426f8b70f.png)
+<h4>2)Train the Recognizer</h4>
 
-<h4>Face Recognition</h4>
-![image](https://user-images.githubusercontent.com/49801313/118783010-48312c80-b8ac-11eb-9e9b-f68fc0985321.png)
+<h4>3)Face Recognition</h4>
 
