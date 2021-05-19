@@ -14,8 +14,9 @@
 <h4>2)Train the Recognizer</h4>
        <h5>recognizer.train(faces, ids): This will train all the faces with the id's(1 to 15)of the players mentioned and creates a trainer.yaml file </h5>
 <h4>3)Face Recognition</h4>
-       <h5>we will detect a face, same we did before with the haasCascade classifier. Having a detected face we can call the most important function in the above code:
-  id, confidence = recognizer.predict(gray portion of the face)
-The recognizer.predict (), will take as a parameter a captured portion of the face to be analyzed and will return its probable owner, indicating its id and how much confidence the recognizer is in relation with this match. </h5>
+       <h5>we will detect a face, same we did before with the haasCascade classifier. Having a detected face we can call the most important function in the above code:</h5>
+       <h5>id, confidence = recognizer.predict(gray portion of the face)</h5>
+       <h5>The recognizer.predict(),will take as a parameter a captured portion of the face to be analyzed and will return its probable owner, indicating its id and how much</h5>
+       <h5>confidence the recognizer is in relation with this match. </h5>
 
 <hr>                                             </hr>
