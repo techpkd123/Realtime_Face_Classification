@@ -1,5 +1,5 @@
 # Realtime_Face_Classification
-![image](https://user-images.githubusercontent.com/49801313/118780372-985abf80-b8a9-11eb-874e-06e4fc4b4b41.png)
+
 <hr>                         </hr>
 <h2>Installation instructions</h2>
 
